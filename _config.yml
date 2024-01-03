@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Yoonj310_blog"
 title_separator          : "-"
-subtitle                 : "...?"
+subtitle                 : "아무거나 끄적여보는 블로그"
 name                     : "유윤정(Yoo Yoonjeong)"
 description              : "An amazing website."
 url                      : "https://yoonjeongyoo.github.io/"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Yoo Yoonjeong"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "docs/assets/images/bio-photo.jpg"
+  bio              : "아무거나 끄적여보는 블로그"
   location         : "Republic of Korea"
   email            :
   links:
