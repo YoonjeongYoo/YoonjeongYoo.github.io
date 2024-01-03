@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Yoo Yoonjeong"
-  avatar           : "assets/baby_rabbit.jpeg"
+  avatar           : "/assets/baby_rabbit.jpeg"
   bio              : "아무거나 끄적여보는 블로그"
   location         : "Republic of Korea"
   email            :
